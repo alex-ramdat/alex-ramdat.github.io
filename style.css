@@ -1,0 +1,29 @@
+h1 {
+    text-align: center;
+    font-family: 'Bebas Neue', cursive;
+}
+
+body {
+    background-color: #f9fae6;
+    
+}
+
+.projects {
+    border: 4px double #57a3ad;
+    margin: 25px;
+    padding: 25px;
+}
+
+.about-me {
+     border: 4px solid #57a3ad;   
+        margin: 25px;
+    padding: 25px;
+    
+}
+
+.contact {
+        border: 4px solid #57a3ad;   
+        margin: 25px;
+    padding: 25px; 
+    
+}
